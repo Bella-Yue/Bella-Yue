@@ -23,7 +23,7 @@ And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.or
 
 ### 💻 Open Source Work Stats
 
-![Bella-Yue's Github stats](https://github-readme-stats.vercel.app/api?username=Bella-Yue&show_icons=true&hide_border=true)
+![Bella-Yue's Github stats](https://github-readme-stats.vercel.app/api?username=Bella-Yue&include_all_commits=true&count_private=true&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bella-Yue&layout=compact)
 
