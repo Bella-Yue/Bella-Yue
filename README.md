@@ -27,6 +27,9 @@ And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.or
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bella-Yue&layout=compact)
 
+<!-- 连续提交代码天数记录 -->
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Bella-Yue&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF" />
+
 [0]: https://juejin.cn/user/2480944002111239
 [1]: https://www.zhihu.com/signin?next=%2F
 
